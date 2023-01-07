@@ -74,13 +74,13 @@ function update(){
         // going over the game grid
         if(snakeX < 0 || snakeX > cols*blockSize || snakeY< 0 || snakeY> rows*blockSize){
             gameOver = true;
-            alert("Game Over");
+            alert("Game Over 😱");
         }
         // bumping over the snake body parts
         for(let i = 0; i< snakeBody.length; i++){
             if(snakeX == snakeBody[i][0] && snakeY == snakeBody[i][1]){
                 gameOver =true;
-                alert("Game Over");
+                alert("Game Over 😱");
             }
         }
 
