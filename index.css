@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url(https://media.istockphoto.com/id/1383349954/photo/close-up-3d-rendering-scale-of-gold-chinese-dragon-slither.jpg?b=1&s=170667a&w=0&k=20&c=NT-ruIFOd-Lx_yCH6gkgrLAdu3gI21B3QdqBmQeAGFs=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family:  "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 75px;
+    color: brown;
+}
